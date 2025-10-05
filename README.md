@@ -102,6 +102,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Credits
+
+This wouldn't have been possible without:
+    * Linktr.ee charging too much
+    * Dot.cards charging too much
+    * The amazing work of Michael Barney with [Linkfree](https://github.com/MichaelBarney/LinkFree) 
+
 ---
 
 **Made with ❤️ and PowerShell**
